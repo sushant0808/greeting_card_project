@@ -75,10 +75,17 @@
     font-size: 25px;
     color: white;
     text-align: center;
+    font-family: 'Coiny', cursive;
+    word-spacing: 5px;
 }
 
 .subtitle{
     font-size: 18px;
     text-align: justify;
     color: #9D854A;
+    font-family: 'Poppins', sans-serif;
+}
+
+.gamer{
+    font-family: 'Press Start 2P', cursive;
 }
