@@ -3,11 +3,11 @@
     height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    /* justify-content: center; */
 }
 
 .card-div{
-    height: 90vh;
+    height: 100vh;
 }
 
 .main-card-div{
